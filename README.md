@@ -11,7 +11,7 @@ The dataset used in this analysis contains information about sales transactions 
 ### Installation : 
 To run this project, you need to have Python installed on your system along with the following libraries:
 
-NumPy
-pandas
-Matplotlib
-Seaborn
+NumPy<br>
+pandas<br>
+Matplotlib<br>
+Seaborn<br>
